@@ -1,4 +1,4 @@
-# Mental Quantum Cognition (MQC) – Open Source Project
+Δₙ Operator HypothesisMental Quantum Cognition (MQC) – Open Source Project
 
 **Welcome to the MQC Open-Source Initiative — a frontier project in consciousness technology.**  
 We are building a modular, open-source hardware + software platform designed to stabilize and enhance Mental Quantum Acuity through adaptive AI, biometric sensing, sound resonance, and cognitive feedback.
